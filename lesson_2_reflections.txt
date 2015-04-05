@@ -19,3 +19,10 @@ change?
 You can use git diff to compare your files in the working directory with the
 files in the staging area. From here you can see what files to stage or not
 to make a logical commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+If you wanted to expierement with something new and didn't want to modify
+your existing working code -- you could just branch from from the existing
+codebase and keep your experimental changes separate.
