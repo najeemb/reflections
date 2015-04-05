@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initalize a repo Git begins tracking files as soon you make a 
+commit. Initialization adds the metadata necessary to track files. You
+need to initialize a repo so that Git sets it up properly for version
+control.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The working directory is where your files reside and thoee are the files
+you edit. The staging area holds the files you are ready to commit. The
+benefit is that you can remove or add files to the staging area before
+you make the commit.
