@@ -26,3 +26,9 @@ history organized? How would branches help?
 If you wanted to expierement with something new and didn't want to modify
 your existing working code -- you could just branch from from the existing
 codebase and keep your experimental changes separate.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you visualize the branch structure by showing you
+the parent of each commit and from which commit new branches
+were created.
