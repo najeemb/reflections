@@ -41,3 +41,12 @@ final commit of each branch into one commit -- the merge commit. The
 previous commits also get merged in the new branch based on timestamp.
 The diagram is represented the way it is because the two branches are
 completely seperate until merged together.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Automatic merging saves you time and you don't have to sift through code to
+figure out the changes in each file in relation to the oroginal file. The
+cons are that it always doesn't know how to merge entangled changes. The benefit
+of a manual merge is that you can figure out exactly what to change and merge
+but this process can be very time consuming.
