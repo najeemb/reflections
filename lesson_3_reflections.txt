@@ -9,3 +9,12 @@ automatically stay up-to-date with your remote repository?
 Your files/work can easily get overwritten that way. You may have made changes
 that you want to push and if Git syncs that with your remote repo it might get
 overwritten.
+
+Describe the difference between forks, clones, and branches. When would you use
+one instead of another?
+
+A fork copies a repo on GitHub to a new repo on GitHub. A clone allows you to copy
+a remote repo to your local machine. A branch is a lineage of commits, i.e., commit
+history. You would use a fork if you want to add/modify a repo on GitHub. You would
+use a clone if you want to copy a remote repo to your local machine. You use a branch
+inside a repo to track your master and create experimental copies of your codebase.
